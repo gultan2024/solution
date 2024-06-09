@@ -1,0 +1,7 @@
+D:\agile\solution\Project\bin\Debug\Project.exe.config
+D:\agile\solution\Project\bin\Debug\Project.exe
+D:\agile\solution\Project\bin\Debug\Project.pdb
+D:\agile\solution\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\agile\solution\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\agile\solution\Project\obj\Debug\Project.exe
+D:\agile\solution\Project\obj\Debug\Project.pdb
